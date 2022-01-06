@@ -1,0 +1,108 @@
+
+body{
+    font-family: Ubuntu;
+}
+section#title{
+    background-color: #ff4c68;
+}
+h1{
+    
+    font-size:3.5rem;
+    line-height: 1.5;
+    color:white;
+    font-weight: bold;
+    
+}
+.container-fluid{
+    padding:3% 17%;
+}
+a.navbar-brand{
+    
+    font-size:2.3rem;
+}
+div.custom{
+    width: 50%;
+    position: relative;
+}
+ img.iphone-mockup{
+    transform: rotate(25deg);
+    width: 60%;
+    
+    position:absolute;
+  
+    
+}
+div.title{
+    margin:4% 0;
+}
+nav.navbar{
+    padding:0 0 4.5rem;
+}
+li.nav-item{
+    padding:0 1rem;
+}
+a.nav-link{
+    font-size: 1.2rem;
+}
+button.download{
+    margin:5% 3% 0 0 ;
+}
+section#features{
+    padding:7% 13%;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    
+    
+}
+div.feature-box{
+    text-align: center;
+}
+h3{
+    font-weight:bold;
+}
+div.feature-box p{
+    color: #8f8f8f;
+}
+div.feature-box i{
+    color:#ef8172;
+    margin: 0 0 1rem;
+}
+div.feature-box i:hover{
+    color:#ff4c68;
+}
+section#testimonials{
+    
+    text-align: center;
+    background-color: #ef8172;
+    color:white;
+}
+h2{
+    font-size:2.5rem;
+    font-weight:600;
+    line-height: 1.5;
+}
+img.dog-profile, img.lady-profile{
+    width:10%;
+    border-radius: 100%;
+    margin:2%;
+}
+section#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding:0 0 5% 0;
+}
+img.logo{
+    width:15%;
+    margin:2% 3%;
+}
+div.carousel-item{
+    padding:7% 15%;
+}
+div.card{
+    text-align: center;
+    margin:5% 1% 0 1%
+}
+section#pricing{
+    padding:3% 5%;
+}
